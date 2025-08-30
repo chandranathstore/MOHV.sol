@@ -13,9 +13,9 @@ The project aims to provide fast, secure, and reliable digital transactions for 
 | Name             | MOSV Coin                    |
 | Symbol           | MOSV                         |
 | Decimals         | 8                            |
-| Total Supply     | [Enter total supply]         |
-| Contract Address | [Enter contract address]     |
-| Blockchain       | [Ethereum / BSC / Polygon]   |
+| Total Supply     | 21000000                     |
+| Contract Address | 0x31629a1f81ac0193a59c66b887f39d845d7ee2b5|
+| Blockchain       | BSC                          |
 
 ---
 
