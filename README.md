@@ -1,5 +1,3 @@
-
-
 # MOSV Coin (MOSV)
 
 ## Project Overview
